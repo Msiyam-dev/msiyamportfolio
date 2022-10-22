@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@iconify/vue": "^4.0.0",
+    "@nuxtjs/svg": "^0.0.0",
+    "@unocss/nuxt": "^0.45.21",
+    "nuxt": "^3.0.0-rc.10"
+  },
+  "dependencies": {
+    "@nuxtjs/color-mode": "^3.1.6",
+    "@nuxtjs/svg-sprite": "^0.0.0"
+  }
+}
